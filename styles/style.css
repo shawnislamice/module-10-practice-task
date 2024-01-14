@@ -10,6 +10,9 @@
     font-family: 'Poppins', sans-serif;
     font-family: 'Work Sans', sans-serif;
 }
+img{
+    object-fit: cover;
+}
 
 .hide {
     display: none;
